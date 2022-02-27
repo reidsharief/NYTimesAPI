@@ -1,0 +1,1213 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2022 The New York Times Company.  All Rights Reserved.",
+  "num_results": 20,
+  "results": [
+    {
+      "uri": "nyt://article/2b8c4a79-46bb-52a4-a934-634b110052cd",
+      "url": "https://www.nytimes.com/2022/02/25/technology/russia-supporters.html",
+      "id": 100000008226071,
+      "asset_id": 100000008226071,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 13:02:29",
+      "section": "Technology",
+      "subsection": "",
+      "nytdsection": "technology",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Conspiracy Theories;Rumors and Misinformation;Computers and the Internet;Social Media;Polls and Public Opinion;United States International Relations;United States Politics and Government;Putin, Vladimir V;Trump, Donald J;Biden, Joseph R Jr;Telegram LLC;Twitter;Facebook Inc",
+      "column": null,
+      "byline": "By Davey Alba and Stuart A. Thompson",
+      "type": "Article",
+      "title": "\u2018I\u2019ll Stand on the Side of Russia\u2019: Pro-Putin Sentiment Spreads Online",
+      "abstract": "After marinating in conspiracy theories and Donald J. Trump\u2019s Russia stance, some online discourse about Vladimir Putin has grown more complimentary.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Conspiracy Theories",
+        "Rumors and Misinformation",
+        "Computers and the Internet",
+        "Social Media",
+        "Polls and Public Opinion",
+        "United States International Relations",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "Telegram LLC",
+        "Twitter",
+        "Facebook Inc"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Trump, Donald J",
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia and President Donald J. Trump at a meeting in 2019.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/business/24prorussia/merlin_161611050_f3a5f428-fbb1-44f0-ac7d-e973f36c127c-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/business/24prorussia/merlin_161611050_f3a5f428-fbb1-44f0-ac7d-e973f36c127c-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/business/24prorussia/merlin_161611050_f3a5f428-fbb1-44f0-ac7d-e973f36c127c-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/63b07c4e-711f-5ce1-a656-ee50c6b76098",
+      "url": "https://www.nytimes.com/2022/02/24/world/europe/trump-putin-russia-ukraine.html",
+      "id": 100000008226059,
+      "asset_id": 100000008226059,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-25 11:04:14",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);United States International Relations;Biden, Joseph R Jr;Putin, Vladimir V;Trump, Donald J;Fox News Channel;Republican Party;Russia;Ukraine",
+      "column": null,
+      "byline": "By David D. Kirkpatrick, Maggie Astor and Catie Edmondson",
+      "type": "Article",
+      "title": "Trump Praises Putin, Leaving Republicans in a Bind",
+      "abstract": "G.O.P. leaders, while condemning Russia\u2019s invasion of Ukraine, were silent on comments made by the former president. Some figures on the right amplified them.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Putin, Vladimir V",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Vladimir V. Putin of Russia meeting with President Donald J. Trump in June 2019.",
+          "copyright": "Erin Schaff/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24right-1/24right-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24right-1/24right-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24right-1/24right-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/e76aab1a-4e86-50b8-8684-5eb01f1b7ab7",
+      "url": "https://www.nytimes.com/2022/02/24/opinion/russia-ukraine-sanctions-offshore-accounts.html",
+      "id": 100000008226430,
+      "asset_id": 100000008226430,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-25 10:11:37",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Embargoes and Sanctions;War and Armed Conflicts;Assets, Frozen;Corruption (Institutional);Money Laundering;Putin, Vladimir V;Russia;Ukraine",
+      "column": null,
+      "byline": "By Paul Krugman",
+      "type": "Article",
+      "title": "Laundered Money Could Be Putin\u2019s Achilles\u2019 Heel",
+      "abstract": "We can and should freeze oligarchs\u2019 overseas assets.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Embargoes and Sanctions",
+        "War and Armed Conflicts",
+        "Assets, Frozen",
+        "Corruption (Institutional)",
+        "Money Laundering"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Wang Zhao/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/opinion/24krugman1/24krugman1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/opinion/24krugman1/24krugman1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/opinion/24krugman1/24krugman1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/51dfcab5-5dc3-5ea1-b0d8-e2e1819cafbe",
+      "url": "https://www.nytimes.com/2022/02/25/us/politics/us-china-russia-ukraine.html",
+      "id": 100000008227311,
+      "asset_id": 100000008227311,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 06:38:57",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States International Relations;Russian Invasion of Ukraine (2022);Embargoes and Sanctions;Biden, Joseph R Jr;Xi Jinping;Putin, Vladimir V;Qin Gang (1966- );Wang Yi;China;Russia;Ukraine",
+      "column": null,
+      "byline": "By Edward Wong",
+      "type": "Article",
+      "title": "U.S. Officials Repeatedly Urged China to Help Avert War in Ukraine",
+      "abstract": "Americans presented Chinese officials with intelligence on Russia\u2019s troop buildup in hopes that President Xi Jinping would step in, but were repeatedly rebuffed.",
+      "des_facet": [
+        "United States International Relations",
+        "Russian Invasion of Ukraine (2022)",
+        "Embargoes and Sanctions"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Xi Jinping",
+        "Putin, Vladimir V",
+        "Qin Gang (1966- )",
+        "Wang Yi"
+      ],
+      "geo_facet": [
+        "China",
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden participated in a video summit with President Xi Jinping of China in November.",
+          "copyright": "Mandel Ngan/Agence France-Presse \u2014 Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25dc-chinarussia/25dc-chinarussia-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25dc-chinarussia/merlin_198449832_44b454cb-0fd8-41c9-a6bb-5627a4b694cd-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25dc-chinarussia/merlin_198449832_44b454cb-0fd8-41c9-a6bb-5627a4b694cd-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8d3ffbc8-a60e-54d7-b697-7855aa24a7e5",
+      "url": "https://www.nytimes.com/2022/02/25/world/europe/eu-russian-sanctions.html",
+      "id": 100000008227237,
+      "asset_id": 100000008227237,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-25 15:40:05",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Embargoes and Sanctions;International Trade and World Market;Putin, Vladimir V;von der Leyen, Ursula;European Union;European Commission;Europe;Russia;Ukraine",
+      "column": null,
+      "byline": "By Matina Stevis-Gridneff",
+      "type": "Article",
+      "title": "European Leaders Agree to a Second Wave of Russia Sanctions",
+      "abstract": "The E.U. agreed to freeze the assets of President Putin and foreign minister Sergey Lavrov, while other measures will hit Russia\u2019s access to technology",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Embargoes and Sanctions",
+        "International Trade and World Market"
+      ],
+      "org_facet": [
+        "European Union",
+        "European Commission"
+      ],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "von der Leyen, Ursula"
+      ],
+      "geo_facet": [
+        "Europe",
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Ursula von der Leyen, the president of the European Commission, in the early hours of Friday after a meeting with European leaders in Brussels.",
+          "copyright": "Pool photo by Johanna Geron",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25UKRAINE-EU-SANCTIONS1/25UKRAINE-EU-SANCTIONS1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25UKRAINE-EU-SANCTIONS1/25UKRAINE-EU-SANCTIONS1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25UKRAINE-EU-SANCTIONS1/25UKRAINE-EU-SANCTIONS1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/50ed4764-22fa-5136-8818-bfa5fda438b4",
+      "url": "https://www.nytimes.com/2022/02/25/health/cdc-mask-guidance.html",
+      "id": 100000008227795,
+      "asset_id": 100000008227795,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 11:16:08",
+      "section": "Health",
+      "subsection": "",
+      "nytdsection": "health",
+      "adx_keywords": "Coronavirus (2019-nCoV);Vaccination and Immunization;Masks;Disease Rates;Coronavirus Omicron Variant;your-feed-science;Centers for Disease Control and Prevention;United States",
+      "column": null,
+      "byline": "By Apoorva Mandavilli",
+      "type": "Article",
+      "title": "New C.D.C. Guidelines Suggest 70 Percent of Americans Can Stop Wearing Masks",
+      "abstract": "The agency issued a new set of recommendations intended to help communities live with the virus and get back to normal life.",
+      "des_facet": [
+        "Coronavirus (2019-nCoV)",
+        "Vaccination and Immunization",
+        "Masks",
+        "Disease Rates",
+        "Coronavirus Omicron Variant",
+        "your-feed-science"
+      ],
+      "org_facet": [
+        "Centers for Disease Control and Prevention"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "New mask guidelines arrive as the coronavirus is in retreat across the country.",
+          "copyright": "Alex Wong/Getty Images",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/science/25virus-masks-topart/25virus-masks-topart-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/science/25virus-masks-topart/25virus-masks-topart-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/science/25virus-masks-topart/25virus-masks-topart-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/029d5d2a-4b66-5f4d-a642-e867b10c3fbd",
+      "url": "https://www.nytimes.com/2022/02/25/arts/television/ukraine-invasion-tv-cnn-fox-news.html",
+      "id": 100000008227048,
+      "asset_id": 100000008227048,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 11:33:00",
+      "section": "Arts",
+      "subsection": "Television",
+      "nytdsection": "arts",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Television;News and News Media;Trump, Donald J;Carlson, Tucker;Putin, Vladimir V;Fox News Channel;CNN;MSNBC;Russia;Ukraine",
+      "column": null,
+      "byline": "By James Poniewozik",
+      "type": "Article",
+      "title": "Ukraine on TV: We\u2019ve Seen This Before. And We\u2019ve Never Seen Anything Like It.",
+      "abstract": "As the invasion unfolded, images straight out of Cold War nightmare dramas butted up against 21st-century politics.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Television",
+        "News and News Media"
+      ],
+      "org_facet": [
+        "Fox News Channel",
+        "CNN",
+        "MSNBC"
+      ],
+      "per_facet": [
+        "Trump, Donald J",
+        "Carlson, Tucker",
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "On television, coverage of the Russian invasion of Ukraine included images of war that were familiar, and others that were strikingly unusual.",
+          "copyright": "CNN, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/26/arts/25Ukrainetv-notebook-1/25Ukrainetv-notebook-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/26/arts/25Ukrainetv-notebook-1/25Ukrainetv-notebook-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/26/arts/25Ukrainetv-notebook-1/25Ukrainetv-notebook-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/ce9a6e19-523c-5950-94a8-c2acee05c951",
+      "url": "https://www.nytimes.com/2022/02/25/arts/music/tears-for-fears-heritage-acts-new-albums.html",
+      "id": 100000008199763,
+      "asset_id": 100000008199763,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-25 13:05:35",
+      "section": "Arts",
+      "subsection": "Music",
+      "nytdsection": "arts",
+      "adx_keywords": "Pop and Rock Music;Doobie Brothers;Tears for Fears (Music Group)",
+      "column": null,
+      "byline": "By David Peisner",
+      "type": "Article",
+      "title": "What Happens When a \u2018Heritage Act\u2019 Wants More Than Playing the Hits?",
+      "abstract": "Tears for Fears are returning with their first new album in 18 years. The group is one of a number of veteran bands releasing fresh music after lengthy pauses.",
+      "des_facet": [
+        "Pop and Rock Music"
+      ],
+      "org_facet": [
+        "Doobie Brothers",
+        "Tears for Fears (Music Group)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "From left: Curt Smith and Roland Orzabal of Tears for Fears. The band\u2019s latest album, \u201cThe Tipping Point,\u201d is its first in nearly two decades.",
+          "copyright": "Michael Schmelling for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/03/06/arts/06comebacks1/06comebacks1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/03/06/arts/06comebacks1/merlin_202302519_9bbd1699-44d2-423c-9d75-d432a90d5641-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/03/06/arts/06comebacks1/merlin_202302519_9bbd1699-44d2-423c-9d75-d432a90d5641-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/1f1a6e2a-bb2f-5fe8-ac6b-d6fb866a3a32",
+      "url": "https://www.nytimes.com/2022/02/24/us/las-vegas-brandon-toseland-child-death.html",
+      "id": 100000008224746,
+      "asset_id": 100000008224746,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-25 08:36:56",
+      "section": "U.S.",
+      "subsection": "",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Child Abuse and Neglect;Murders, Attempted Murders and Homicides;Kidnapping and Hostages;Dominguez, Mason (d 2021);Toseland, Brandon;Las Vegas (Nev);Nevada",
+      "column": null,
+      "byline": "By Alyssa Lukpat",
+      "type": "Article",
+      "title": "Notes to a Teacher Lead Police to a Child\u2019s Body",
+      "abstract": "The mother of a student wrote that she was being held against her will at a house in Las Vegas and feared for her son, the authorities said.",
+      "des_facet": [
+        "Child Abuse and Neglect",
+        "Murders, Attempted Murders and Homicides",
+        "Kidnapping and Hostages"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Dominguez, Mason (d 2021)",
+        "Toseland, Brandon"
+      ],
+      "geo_facet": [
+        "Las Vegas (Nev)",
+        "Nevada"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Brandon Toseland appeared in court on Wednesday in Las Vegas. He was being held on one count of open murder and two counts of kidnapping, the police said. ",
+          "copyright": "Bizuayehu Tesfaye/Las Vegas Review-Journal, via Associated Press",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/23/multimedia/23xp-note1/23xp-note1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/23/multimedia/23xp-note1/23xp-note1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/23/multimedia/23xp-note1/23xp-note1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8c6150d8-0329-52e2-8c0e-d39ed53d9652",
+      "url": "https://www.nytimes.com/2022/02/25/world/europe/chernobyl-nuclear-plant-control.html",
+      "id": 100000008227629,
+      "asset_id": 100000008227629,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 06:44:17",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Chernobyl (Ukraine);Russia",
+      "column": null,
+      "byline": "By Ivan Nechepurenko",
+      "type": "Article",
+      "title": "Russia confirms that it controls the former Chernobyl nuclear plant.",
+      "abstract": "Russia\u2019s Defense Ministry said it was working with Ukrainian guards to ensure the safety of the former plant, while Ukraine said Russian forces were holding the facility\u2019s personnel hostage.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Chernobyl (Ukraine)",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chernobyl, Ukraine, last month. After a 1986 nuclear accident, it now\u00a0lies inside a 1,000-square-mile exclusion zone in northern Ukraine.",
+          "copyright": "Tyler Hicks/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-briefing-russia-defense-statement-01/merlin_200160459_d5df4c4c-0823-4404-aab2-010f5c8c6ca1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-briefing-russia-defense-statement-01/merlin_200160459_d5df4c4c-0823-4404-aab2-010f5c8c6ca1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/03/24/world/24ukraine-briefing-russia-defense-statement-01/merlin_200160459_d5df4c4c-0823-4404-aab2-010f5c8c6ca1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/74710809-ef8c-5c52-8ea6-f463fc53c548",
+      "url": "https://www.nytimes.com/2022/02/24/world/europe/russia-protests-putin.html",
+      "id": 100000008226234,
+      "asset_id": 100000008226234,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-25 05:34:54",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Demonstrations, Protests and Riots;War and Armed Conflicts;Russia;Moscow (Russia);Kyiv (Ukraine)",
+      "column": null,
+      "byline": "By Ivan Nechepurenko and Dan Bilefsky",
+      "type": "Article",
+      "title": "Thousands of Russians protest President Vladimir V. Putin\u2019s assault on Ukraine. Some chant: \u2018No to war!\u2019",
+      "abstract": "At the demonstrations, many people said they felt depressed and broken by the news of Russian military action.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Demonstrations, Protests and Riots",
+        "War and Armed Conflicts"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia",
+        "Moscow (Russia)",
+        "Kyiv (Ukraine)"
+      ],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/001b7750-d0dd-5f59-b6d1-083d159858d2",
+      "url": "https://www.nytimes.com/2022/02/24/us/politics/us-troops-deploy-europe.html",
+      "id": 100000008226863,
+      "asset_id": 100000008226863,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-24 23:13:18",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;War and Armed Conflicts;United States Defense and Military Forces;United States International Relations;Austin, Lloyd J III;Biden, Joseph R Jr;Kirby, John F;Putin, Vladimir V;Zelensky, Volodymyr;Defense Department;North Atlantic Treaty Organization;Russia;Ukraine;Eastern Europe",
+      "column": null,
+      "byline": "By Helene Cooper",
+      "type": "Article",
+      "title": "Pentagon Orders 7,000 More Troops to Europe",
+      "abstract": "Military officials gave a grim assessment of the toll on Ukraine, saying that Russian forces were moving to decapitate the government in Kyiv.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "War and Armed Conflicts",
+        "United States Defense and Military Forces",
+        "United States International Relations"
+      ],
+      "org_facet": [
+        "Defense Department",
+        "North Atlantic Treaty Organization"
+      ],
+      "per_facet": [
+        "Austin, Lloyd J III",
+        "Biden, Joseph R Jr",
+        "Kirby, John F",
+        "Putin, Vladimir V",
+        "Zelensky, Volodymyr"
+      ],
+      "geo_facet": [
+        "Russia",
+        "Ukraine",
+        "Eastern Europe"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "American soldiers being deployed to Europe from Fort Bragg, N.C., last week.",
+          "copyright": "Kenny Holston for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-military/merlin_202220238_dfb21e71-3f75-41e6-8fe3-abad7420da90-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-military/merlin_202220238_dfb21e71-3f75-41e6-8fe3-abad7420da90-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-military/merlin_202220238_dfb21e71-3f75-41e6-8fe3-abad7420da90-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8ea1fc3c-d351-5a30-b6cd-4f3229ed084b",
+      "url": "https://www.nytimes.com/2022/02/25/opinion/ukraine-russia-kyiv.html",
+      "id": 100000008225654,
+      "asset_id": 100000008225654,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 13:04:18",
+      "section": "Opinion",
+      "subsection": "",
+      "nytdsection": "opinion",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Evacuations and Evacuees;Putin, Vladimir V;Ukraine;Kyiv (Ukraine);Russia",
+      "column": null,
+      "byline": "By Veronika Melkozerova",
+      "type": "Article",
+      "title": "I\u2019m in Kyiv, and It Is Terrifying",
+      "abstract": "I feel fear crawling in my guts.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Evacuations and Evacuees"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V"
+      ],
+      "geo_facet": [
+        "Ukraine",
+        "Kyiv (Ukraine)",
+        "Russia"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "People at a bus station in the center of Kyiv, Ukraine, on Thursday.",
+          "copyright": "Emile Ducke for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/opinion/25melkozerova/25melkozerova-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/opinion/25melkozerova/25melkozerova-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/opinion/25melkozerova/25melkozerova-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/2d975591-bfe9-5b57-919e-8f6b005cb772",
+      "url": "https://www.nytimes.com/2022/02/25/realestate/new-yorkers-return-nyc-pandemic.html",
+      "id": 100000008218793,
+      "asset_id": 100000008218793,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 15:21:38",
+      "section": "Real Estate",
+      "subsection": "",
+      "nytdsection": "real estate",
+      "adx_keywords": "Quarantine (Life and Culture);Moving and Moving Industry;Real Estate and Housing (Residential);Rural Areas;Suburbs;New York City;Hudson River Valley (NY);Fairfield (Conn);Gallatin (NY);Woodstock (NY);Kingston (NY)",
+      "column": null,
+      "byline": "By Julie Lasky",
+      "type": "Article",
+      "title": "They Fled for Greener Pastures, and There Were Weeds",
+      "abstract": "City dwellers, who retreated to rural areas in the pandemic, now see drawbacks, from pests and social isolation to the difficulty of finding day care and health care.",
+      "des_facet": [
+        "Quarantine (Life and Culture)",
+        "Moving and Moving Industry",
+        "Real Estate and Housing (Residential)",
+        "Rural Areas",
+        "Suburbs"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "New York City",
+        "Hudson River Valley (NY)",
+        "Fairfield (Conn)",
+        "Gallatin (NY)",
+        "Woodstock (NY)",
+        "Kingston (NY)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Andrew Joseph moved into his home in Saugerties, a small town two hours north of New York City, and found he was no match for beavers who dammed a brook on his property.",
+          "copyright": "Tony Cenicola/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/27/realestate/25greenacres-1/25greenacres-1-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/27/realestate/25greenacres-1/25greenacres-1-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/27/realestate/25greenacres-1/25greenacres-1-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b06cea58-0ae4-57a7-b4a4-ecae4a69e6b1",
+      "url": "https://www.nytimes.com/2022/02/25/us/politics/kimberly-guilfoyle-january-6-committee.html",
+      "id": 100000008227219,
+      "asset_id": 100000008227219,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 12:45:20",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Subpoenas;Storming of the US Capitol (Jan, 2021);United States Politics and Government;Guilfoyle, Kimberly;Trump, Donald J Jr;Trump, Donald J;House of Representatives",
+      "column": null,
+      "byline": "By Luke Broadwater and Alan Feuer",
+      "type": "Article",
+      "title": "Jan. 6 Panel Threatens to Force Guilfoyle to Testify After She Ends Interview",
+      "abstract": "Kimberly Guilfoyle, the fianc\u00e9e of former President Donald J. Trump\u2019s eldest son, cut short an interview when she learned that House members on the panel were participating.",
+      "des_facet": [
+        "Subpoenas",
+        "Storming of the US Capitol (Jan, 2021)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [
+        "House of Representatives"
+      ],
+      "per_facet": [
+        "Guilfoyle, Kimberly",
+        "Trump, Donald J Jr",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A lawyer for Kimberly Guilfoyle said the Jan. 6 committee had \u201crevealed its untrustworthiness.\u201d",
+          "copyright": "Octavio Jones/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25dc-riot-photo01/25dc-riot-photo01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25dc-riot-photo01/25dc-riot-photo01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/multimedia/25dc-riot-photo01/25dc-riot-photo01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3579ca07-47ba-5a58-83bf-69f0c0c46b57",
+      "url": "https://www.nytimes.com/2022/02/25/world/asia/nils-van-der-poel-olympic-protest.html",
+      "id": 100000008225031,
+      "asset_id": 100000008225031,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 13:09:30",
+      "section": "World",
+      "subsection": "Asia Pacific",
+      "nytdsection": "world",
+      "adx_keywords": "Olympic Games (2022);Human Rights and Human Rights Violations;Freedom of Speech and Expression;Political Prisoners;Speedskating;van der Poel, Nils (1996- );Gui Minhai;China;Sweden",
+      "column": null,
+      "byline": "By Chris Buckley, Tariq Panja and Andrew Das",
+      "type": "Article",
+      "title": "Swedish Olympic Star Gives Away Gold Medal to Protest Beijing\u2019s Abuses",
+      "abstract": "In a rare rebuke of Beijing, Nils van der Poel, a speedskater, handed one of his gold medals to the daughter of Gui Minhai, a book publisher imprisoned in China.",
+      "des_facet": [
+        "Olympic Games (2022)",
+        "Human Rights and Human Rights Violations",
+        "Freedom of Speech and Expression",
+        "Political Prisoners",
+        "Speedskating"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "van der Poel, Nils (1996- )",
+        "Gui Minhai"
+      ],
+      "geo_facet": [
+        "China",
+        "Sweden"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Swedish speedskater Nils van der Poel handing his Olympic gold medal to Angela Gui, the daughter of an imprisoned Chinese bookseller, in Cambridge, England, on Thursday.",
+          "copyright": "Mary Turner for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25china-olympics-protest-01/25china-olympics-protest-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25china-olympics-protest-01/25china-olympics-protest-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25china-olympics-protest-01/25china-olympics-protest-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/b70c1190-1588-596d-93d8-d95086139c4a",
+      "url": "https://www.nytimes.com/2022/02/25/us/politics/biden-russia-containment.html",
+      "id": 100000008226693,
+      "asset_id": 100000008226693,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 12:07:54",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);United States International Relations;Embargoes and Sanctions;Cyberwarfare and Defense;Cold War Era;Putin, Vladimir V;Biden, Joseph R Jr;Kennan, George F;Ukraine;Russia;China;Europe;USSR (Former Soviet Union)",
+      "column": null,
+      "byline": "By David E. Sanger",
+      "type": "Article",
+      "title": "Biden Targets Russia With Strategy of Containment, Updated for a New Era",
+      "abstract": "President Biden\u2019s plan to counter Russia faces obstacles in an interconnected world. Russia also has a new, if not very enthusiastic, partner in standing up to the West: China.",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "United States International Relations",
+        "Embargoes and Sanctions",
+        "Cyberwarfare and Defense",
+        "Cold War Era"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Putin, Vladimir V",
+        "Biden, Joseph R Jr",
+        "Kennan, George F"
+      ],
+      "geo_facet": [
+        "Ukraine",
+        "Russia",
+        "China",
+        "Europe",
+        "USSR (Former Soviet Union)"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden and Russia\u2019s president, Vladimir V. Putin, in Geneva last year. Mr. Biden vowed this week to make Mr. Putin a \u201cpariah on the international stage.\u201d",
+          "copyright": "Doug Mills/The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24dc-containment-photo01/24dc-containment-photo01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24dc-containment-photo01/24dc-containment-photo01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/multimedia/24dc-containment-photo01/24dc-containment-photo01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/6347b1e0-fe45-5ffe-9b23-a910efe52492",
+      "url": "https://www.nytimes.com/2022/02/24/us/politics/jim-inhofe-senate-retirement.html",
+      "id": 100000008226674,
+      "asset_id": 100000008226674,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-24 23:31:20",
+      "section": "U.S.",
+      "subsection": "Politics",
+      "nytdsection": "u.s.",
+      "adx_keywords": "United States Politics and Government;Elections, Senate;Inhofe, James M;Senate;Oklahoma",
+      "column": null,
+      "byline": "By Jonathan Martin",
+      "type": "Article",
+      "title": "James Inhofe, Oklahoma Senator, Is Said to Plan an Early Retirement",
+      "abstract": "The 87-year-old Republican has told people that he will step down at the end of the year, four years before his term is up. His seat is likely to stay in G.O.P. hands.",
+      "des_facet": [
+        "United States Politics and Government",
+        "Elections, Senate"
+      ],
+      "org_facet": [
+        "Senate"
+      ],
+      "per_facet": [
+        "Inhofe, James M"
+      ],
+      "geo_facet": [
+        "Oklahoma"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Senator James M. Inhofe of Oklahoma, the top Republican on the Armed Services Committee,\u00a0has been vociferous in his support for a muscular American military presence around the globe.",
+          "copyright": "Stefani Reynolds for The New York Times",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-inhofe/24dc-inhofe-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-inhofe/24dc-inhofe-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/24/us/politics/24dc-inhofe/24dc-inhofe-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/8287eb60-143f-5da1-8cf3-a890ef91417d",
+      "url": "https://www.nytimes.com/2022/02/24/world/europe/russian-helicopter-attack-video.html",
+      "id": 100000008225586,
+      "asset_id": 100000008225586,
+      "source": "New York Times",
+      "published_date": "2022-02-24",
+      "updated": "2022-02-24 09:53:29",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "",
+      "column": null,
+      "byline": "By Haley Willis, Ainara Tiefenth\u00e4ler and Masha Froliak",
+      "type": "Article",
+      "title": "Russian helicopters attack an airport near Kyiv.",
+      "abstract": "Footage verified by The Times shows the most intense fighting seen so far near Ukraine\u2019s capital, Kyiv.",
+      "des_facet": [],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "media": [],
+      "eta_id": 0
+    },
+    {
+      "uri": "nyt://article/3921d0f1-10ea-53af-bba7-aa0d96b6524f",
+      "url": "https://www.nytimes.com/2022/02/25/world/europe/militias-russia-ukraine.html",
+      "id": 100000008227868,
+      "asset_id": 100000008227868,
+      "source": "New York Times",
+      "published_date": "2022-02-25",
+      "updated": "2022-02-26 10:03:50",
+      "section": "World",
+      "subsection": "Europe",
+      "nytdsection": "world",
+      "adx_keywords": "Russian Invasion of Ukraine (2022);Defense and Military Forces;Neo Nazi Groups;Right-Wing Extremism and Alt-Right;Europe;Russia;Ukraine",
+      "column": null,
+      "byline": "By Cora Engelbrecht",
+      "type": "Article",
+      "title": "Far-right militias in Europe plan to confront Russian forces, a research group says.",
+      "abstract": "The apparent mobilization of far-right groups could be problematic for the Ukrainian government",
+      "des_facet": [
+        "Russian Invasion of Ukraine (2022)",
+        "Defense and Military Forces",
+        "Neo Nazi Groups",
+        "Right-Wing Extremism and Alt-Right"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Europe",
+        "Russia",
+        "Ukraine"
+      ],
+      "media": [
+        {
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Members of the Ukrainian Azov Battalion leading military exercises for civilians amid the threat of a Russian invasion, in Kyiv, this month.",
+          "copyright": "Gleb Garanich/Reuters",
+          "approved_for_syndication": 1,
+          "media-metadata": [
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-far-right-01/25ukraine-briefing-far-right-01-thumbStandard.jpg",
+              "format": "Standard Thumbnail",
+              "height": 75,
+              "width": 75
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-far-right-01/25ukraine-briefing-far-right-01-mediumThreeByTwo210.jpg",
+              "format": "mediumThreeByTwo210",
+              "height": 140,
+              "width": 210
+            },
+            {
+              "url": "https://static01.nyt.com/images/2022/02/25/world/25ukraine-briefing-far-right-01/25ukraine-briefing-far-right-01-mediumThreeByTwo440.jpg",
+              "format": "mediumThreeByTwo440",
+              "height": 293,
+              "width": 440
+            }
+          ]
+        }
+      ],
+      "eta_id": 0
+    }
+  ]
+}
